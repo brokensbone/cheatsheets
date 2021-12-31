@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages (Cheatsheet)
+## Welcome to GitHub Pages (Cheatsheets!)
 
 You can use the [editor on GitHub](https://github.com/brokensbone/cheatsheets/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
