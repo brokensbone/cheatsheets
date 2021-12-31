@@ -1,6 +1,6 @@
-## Tar
+# Tar
 
-# Extract
+## Extract
 
 ```
 tar -xvf [archive].tar
